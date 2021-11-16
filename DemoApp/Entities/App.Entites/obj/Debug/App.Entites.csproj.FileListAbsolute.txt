@@ -1,0 +1,12 @@
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\App.Entites.dll
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\App.Entites.pdb
+C:\LocalProject\DemoApp\Entities\App.Entites\obj\Debug\App.Entites.csproj.CoreCompileInputs.cache
+C:\LocalProject\DemoApp\Entities\App.Entites\obj\Debug\App.Entites.dll
+C:\LocalProject\DemoApp\Entities\App.Entites\obj\Debug\App.Entites.pdb
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\App.Entites.dll.config
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\EntityFramework.dll
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\EntityFramework.SqlServer.dll
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\EntityFramework.xml
+C:\LocalProject\DemoApp\Entities\App.Entites\bin\Debug\EntityFramework.SqlServer.xml
+C:\LocalProject\DemoApp\Entities\App.Entites\obj\Debug\App.Entites.csproj.CopyComplete
+C:\LocalProject\DemoApp\Entities\App.Entites\obj\Debug\App.Entites.csprojAssemblyReference.cache

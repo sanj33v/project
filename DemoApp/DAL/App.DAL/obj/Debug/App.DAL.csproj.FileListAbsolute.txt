@@ -1,0 +1,15 @@
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.DAL.dll
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.DAL.pdb
+C:\LocalProject\DemoApp\DAL\App.DAL\obj\Debug\App.DAL.csprojAssemblyReference.cache
+C:\LocalProject\DemoApp\DAL\App.DAL\obj\Debug\App.DAL.csproj.CoreCompileInputs.cache
+C:\LocalProject\DemoApp\DAL\App.DAL\obj\Debug\App.DAL.dll
+C:\LocalProject\DemoApp\DAL\App.DAL\obj\Debug\App.DAL.pdb
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.DAL.dll.config
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\EntityFramework.dll
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\EntityFramework.xml
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\LocalProject\DemoApp\DAL\App.DAL\obj\Debug\App.DAL.csproj.CopyComplete
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.Entites.dll
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.Entites.pdb
+C:\LocalProject\DemoApp\DAL\App.DAL\bin\Debug\App.Entites.dll.config
